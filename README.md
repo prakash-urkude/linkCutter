@@ -6,7 +6,11 @@
 ## Scalable URL Shortner Project Requirement
 
 ## FRONTEND
-With the help of ReactJS & Tailwind css created fronted for this project . which is fully responsive app.
+![Screenshot (576)](https://user-images.githubusercontent.com/115548645/234212159-e65ddc02-ebe3-47e3-8d54-278bfb227326.png)
+
+With the help of ReactJS & Tailwind css created fronted for this project . which is completely responsive app
+![Screenshot (578)](https://user-images.githubusercontent.com/115548645/234212397-6f34c08d-af1d-4c1b-957e-4424bdd60084.png)
+
 
 ## BACKEND
 ## Phase I
