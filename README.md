@@ -1,7 +1,7 @@
 # linkCutter - MERN Stack Project 
 # Lithium
 
-## techStack :- MongoDB, NodeJS, JavaScript , ReactJS, Redis.
+## techStack :- MongoDB, NodeJS, JavaScript , ReactJS, Redis
 
 ## Scalable URL Shortner Project Requirement
 
